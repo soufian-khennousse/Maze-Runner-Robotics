@@ -15,5 +15,8 @@ Key Features
 
 🔧 Tech Stack: Python, ROS, Sensor Integration (Lidar/Camera), Pathfinding Algorithms
 
-Feel free to explore, contribute, and improve the navigation strategies! 🎯
+Feel free to explore, contribute, and improve the navigation strategies! 🎯  
+
+<img width="981" height="827" alt="image" src="https://github.com/user-attachments/assets/7c59a6d6-c192-4854-9496-070f907c7ddb" />
+
 
