@@ -1,3 +1,5 @@
+This is a research project. This means we did not use any external libraries. Please read the PDF file if you want to dive deeper into the topic.  
+
 This repository contains a Maze Runner project where a robot autonomously navigates through a labyrinth to find the fastest path to the exit. The challenge is structured into three difficulty levels:
 
 1️⃣ Known Map & Exit Location – The robot has full knowledge of the maze structure and the exit position, allowing it to compute an optimal path before moving.
